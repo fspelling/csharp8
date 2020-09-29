@@ -1,0 +1,9 @@
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\bin\Debug\netcoreapp2.2\CSharp8.OldVersion.deps.json
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\bin\Debug\netcoreapp2.2\CSharp8.OldVersion.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\bin\Debug\netcoreapp2.2\CSharp8.OldVersion.pdb
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.csprojAssemblyReference.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.AssemblyInfoInputs.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.AssemblyInfo.cs
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.csproj.CoreCompileInputs.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.OldVersion\obj\Debug\netcoreapp2.2\CSharp8.OldVersion.pdb

@@ -1,0 +1,14 @@
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\CSharp8.NewVersion.deps.json
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\CSharp8.NewVersion.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.csprojAssemblyReference.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.AssemblyInfoInputs.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.AssemblyInfo.cs
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\bin\Debug\netcoreapp3.1\CSharp8.NewVersion.pdb
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.csproj.CoreCompileInputs.cache
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.dll
+C:\Projetos\csharp8\CSharp8\CSharp8.NewVersion\obj\Debug\netcoreapp3.1\CSharp8.NewVersion.pdb
