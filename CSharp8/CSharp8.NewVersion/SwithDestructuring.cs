@@ -42,6 +42,9 @@ namespace CSharp8.NewVersion
         {
             var destruct = new SwithDestructuring();
 
+            //var test = new MyPoint(1, 1);
+            //var (num1, num2) = test;
+
             var value1 = destruct.GetQuadrant(new MyPoint(0, 0));
             var value2 = destruct.GetQuadrant(new MyPoint(1, 1));
             var value3 = destruct.GetQuadrant(new MyPoint(-1, 1));
