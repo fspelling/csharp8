@@ -31,6 +31,8 @@ namespace CSharp8.NewVersion
         [Test]
         public void SwithExpTest()
         {
+            var o = new { p1 = "foo", p2 = "bar", p3 = "baz" };
+
             var myColorClass = new MyColorClass();
             var color = myColorClass.GetColor(MyColor.Blue);
 

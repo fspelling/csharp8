@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace CSharp8.NewVersion
 {
-    class AsyncLoop
+    class AsyncEnumerable
     {
         public async IAsyncEnumerable<int> GetNumbers()
         {
@@ -18,12 +18,12 @@ namespace CSharp8.NewVersion
     }
 
     [TestFixture]
-    class AsyncLoopTest
+    class AsyncEnumerableTest
     {
         [Test]
         public async Task AsyncWithLoopTest()
         {
-            var asyncLoop = new AsyncLoop();
+            var asyncLoop = new AsyncEnumerable();
 
             await foreach (var number in asyncLoop.GetNumbers())
                 Console.WriteLine(number);
